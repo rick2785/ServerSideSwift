@@ -1,0 +1,1 @@
+Server Side Swift with Perfect web app called "Today I Learned." The idea is you may come across acronyms in taking to folks online, such as "BRB", "TTYL", or "AFAIK". Sometimes it's hard to keep track of them all; so storing them in a database-driven web app is a nice idea. Skeleton was used for default styling.
